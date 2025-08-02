@@ -168,7 +168,7 @@ http://207.248.3.81:8081/play/a0pt
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hansmillanes6-sketch/imagenes/main/tntnovelas.png" group-title="cine y series",TNT Novelas HD
 http://181.78.208.254:8080/play/a0fh/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hansmillanes6-sketch/imagenes/main/universalchannelhd.png" group-title="cine y series",UNIVERSAL CHANNEL HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hansmillanes6-sketch/imagenes/main/universalchannel.png" group-title="cine y series",UNIVERSAL CHANNEL HD
 http://181.78.208.254:8080/play/a0ax/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hansmillanes6-sketch/imagenes/main/usa.png" group-title="cine y series",USA
@@ -176,6 +176,7 @@ http://181.78.208.254:8080/play/a0c0/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hansmillanes6-sketch/imagenes/main/warnerchannelhd.png" group-title="cine y series",Warner Channel HD
 http://181.78.208.254:8080/play/a005/index.m3u8
+
 
 
 
