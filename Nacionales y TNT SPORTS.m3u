@@ -77,8 +77,9 @@ http://179.57.171.184:8000/play/a00j
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hansmillanes6-sketch/imagenes/main/chv.png" group-title="nacionales",chv
 http://179.57.171.184:8000/play/a00k
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hansmillanes6-sketch/imagenes/main/chvnoticias.png" group-title="nacionales",chilevision
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hansmillanes6-sketch/imagenes/main/chilevision.png" group-title="nacionales",chilevision
 http://179.57.171.184:8000/play/a00l
+
 
 
 
