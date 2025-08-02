@@ -40,3 +40,43 @@ http://181.78.208.254:8080/play/a0eg/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hansmillanes6-sketch/imagenes/main/winsportsplus_hd.png" group-title="deportes",Win Sports+ HD
 http://181.78.208.254:8080/play/a0fm/index.m3u8
 
+# Nacionales
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hansmillanes6-sketch/imagenes/main/13c.png" group-title="nacionales",13 C
+http://181.78.208.254:8080/play/a0d1/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hansmillanes6-sketch/imagenes/main/canal13.png" group-title="nacionales",Canal 13
+http://181.78.208.254:8080/play/a0cg/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hansmillanes6-sketch/imagenes/main/canal13_hd.png" group-title="nacionales",Canal 13 HD
+http://181.78.208.254:8080/play/a0ca/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hansmillanes6-sketch/imagenes/main/canal24horas_hd.png" group-title="nacionales",Canal 24 Horas HD
+http://181.78.208.254:8080/play/a0fv/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hansmillanes6-sketch/imagenes/main/ntn24horas.png" group-title="nacionales",NTN 24 Horas
+http://181.78.208.254:8080/play/a0dc/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hansmillanes6-sketch/imagenes/main/tvn_hd.png" group-title="nacionales",TVN HD
+http://181.78.208.254:8080/play/a00j/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hansmillanes6-sketch/imagenes/main/24horas.png" group-title="nacionales",24horas
+http://179.57.171.184:8000/play/a00c
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hansmillanes6-sketch/imagenes/main/mega2.png" group-title="nacionales",mega2
+http://179.57.171.184:8000/play/a00e
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hansmillanes6-sketch/imagenes/main/mega.png" group-title="nacionales",mega
+http://179.57.171.184:8000/play/a00d
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hansmillanes6-sketch/imagenes/main/megaficcion.png" group-title="nacionales",megaficcion
+http://179.57.171.184:8000/play/a00f
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hansmillanes6-sketch/imagenes/main/meganoticias.png" group-title="nacionales",meganoticias
+http://179.57.171.184:8000/play/a00j
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hansmillanes6-sketch/imagenes/main/chv.png" group-title="nacionales",012_chv
+http://179.57.171.184:8000/play/a00k
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hansmillanes6-sketch/imagenes/main/chvnoticias.png" group-title="nacionales",chvilevisionnoticias
+http://179.57.171.184:8000/play/a00l
+
