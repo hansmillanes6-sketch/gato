@@ -10,25 +10,25 @@ http://181.78.208.254:8080/play/a00p/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hansmillanes6-sketch/imagenes/main/espn4.png" group-title="deportes",ESPN 4HD
 http://181.78.208.254:8080/play/a0c6/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hansmillanes6-sketch/imagenes/main/espn5hd.png" group-title="deportes",ESPN 5HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hansmillanes6-sketch/imagenes/main/espn5.png" group-title="deportes",ESPN 5HD
 http://181.78.208.254:8080/play/a0cf/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hansmillanes6-sketch/imagenes/main/espn7hd.png" group-title="deportes",ESPN 7HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hansmillanes6-sketch/imagenes/main/espn7.png" group-title="deportes",ESPN 7HD
 http://181.78.208.254:8080/play/a0el/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hansmillanes6-sketch/imagenes/main/espnhdpu.png" group-title="deportes",ESPN HD PU
 http://181.78.208.254:8080/play/a0fe/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hansmillanes6-sketch/imagenes/main/espnpremiumhd.png" group-title="deportes",ESPN Premium HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hansmillanes6-sketch/imagenes/main/espnpremium.png" group-title="deportes",ESPN Premium HD
 http://181.78.208.254:8080/play/a0c9/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hansmillanes6-sketch/imagenes/main/foxsports3hd.png" group-title="deportes",Fox Sports 3 HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hansmillanes6-sketch/imagenes/main/foxsports3.png" group-title="deportes",Fox Sports 3 HD
 http://181.78.208.254:8080/play/a00q/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hansmillanes6-sketch/imagenes/main/goltv.png" group-title="deportes",Gol TV
 http://181.78.208.254:8080/play/a0ed/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hansmillanes6-sketch/imagenes/main/tntsports_hd.png" group-title="deportes",TNT SPORTS HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hansmillanes6-sketch/imagenes/main/tntsportspremium.png" group-title="deportes",TNT SPORTS HD
 http://181.78.208.254:8080/play/a008/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hansmillanes6-sketch/imagenes/main/tntsports.png" group-title="deportes",TNT SPORTS
@@ -37,7 +37,7 @@ http://207.248.3.81:8081/play/a0oz
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hansmillanes6-sketch/imagenes/main/tycsports.png" group-title="deportes",TyC Sports
 http://181.78.208.254:8080/play/a0eg/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hansmillanes6-sketch/imagenes/main/winsportsplus_hd.png" group-title="deportes",Win Sports+ HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hansmillanes6-sketch/imagenes/main/winports+.png" group-title="deportes",Win Sports+ HD
 http://181.78.208.254:8080/play/a0fm/index.m3u8
 
 # Nacionales
@@ -79,6 +79,7 @@ http://179.57.171.184:8000/play/a00k
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hansmillanes6-sketch/imagenes/main/chilevision.png" group-title="nacionales",chilevision
 http://179.57.171.184:8000/play/a00l
+
 
 
 
