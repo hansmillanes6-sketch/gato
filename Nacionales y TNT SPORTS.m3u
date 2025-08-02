@@ -174,7 +174,8 @@ http://181.78.208.254:8080/play/a0ax/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hansmillanes6-sketch/imagenes/main/usa.png" group-title="cine y series",USA
 http://181.78.208.254:8080/play/a0c0/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hansmillanes6-sketch/imagenes/main/universalchannel.png" group-title="cine y series",Warner Channel HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hansmillanes6-sketch/imagenes/main/warnerchannelhd.png" group-title="cine y series",Warner Channel HD
+
 
 
 
