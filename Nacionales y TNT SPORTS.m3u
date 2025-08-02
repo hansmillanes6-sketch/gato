@@ -44,7 +44,7 @@ http://181.78.208.254:8080/play/a0fm/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hansmillanes6-sketch/imagenes/main/13c.png" group-title="nacionales",13 C
 http://181.78.208.254:8080/play/a0d1/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hansmillanes6-sketch/imagenes/main/canal13.png" group-title="nacionales",Canal 13
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hansmillanes6-sketch/imagenes/main/13.png" group-title="nacionales",Canal 13
 http://181.78.208.254:8080/play/a0cg/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hansmillanes6-sketch/imagenes/main/canal13hd.png" group-title="nacionales",Canal 13 HD
@@ -79,6 +79,7 @@ http://179.57.171.184:8000/play/a00k
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hansmillanes6-sketch/imagenes/main/chvnoticias.png" group-title="nacionales",chilevision
 http://179.57.171.184:8000/play/a00l
+
 
 
 
