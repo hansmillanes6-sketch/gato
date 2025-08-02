@@ -74,10 +74,11 @@ http://179.57.171.184:8000/play/a00f
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hansmillanes6-sketch/imagenes/main/meganoticias.png" group-title="nacionales",meganoticias
 http://179.57.171.184:8000/play/a00j
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hansmillanes6-sketch/imagenes/main/chv.png" group-title="nacionales",012_chv
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hansmillanes6-sketch/imagenes/main/chv.png" group-title="nacionales",chv
 http://179.57.171.184:8000/play/a00k
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hansmillanes6-sketch/imagenes/main/chvnoticias.png" group-title="nacionales",chilevisionnoticias
 http://179.57.171.184:8000/play/a00l
+
 
 
