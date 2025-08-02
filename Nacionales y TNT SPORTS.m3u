@@ -16,9 +16,6 @@ http://181.78.208.254:8080/play/a0cf/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hansmillanes6-sketch/imagenes/main/espn7.png" group-title="deportes",ESPN 7HD
 http://181.78.208.254:8080/play/a0el/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hansmillanes6-sketch/imagenes/main/espnhdpu.png" group-title="deportes",ESPN HD PU
-http://181.78.208.254:8080/play/a0fe/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hansmillanes6-sketch/imagenes/main/espnpremium.png" group-title="deportes",ESPN Premium HD
 http://181.78.208.254:8080/play/a0c9/index.m3u8
 
@@ -79,6 +76,7 @@ http://179.57.171.184:8000/play/a00k
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hansmillanes6-sketch/imagenes/main/chilevision.png" group-title="nacionales",chilevision
 http://179.57.171.184:8000/play/a00l
+
 
 
 
