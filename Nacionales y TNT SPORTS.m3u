@@ -13,9 +13,6 @@ http://181.78.208.254:8080/play/a0ca/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hansmillanes6-sketch/imagenes/main/canal24horashd.png" group-title="nacionales",Canal 24 Horas HD
 http://181.78.208.254:8080/play/a0fv/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hansmillanes6-sketch/imagenes/main/ntn24horas.png" group-title="nacionales",NTN 24 Horas
-http://181.78.208.254:8080/play/a0dc/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hansmillanes6-sketch/imagenes/main/tvnhd.png" group-title="nacionales",TVN HD
 http://181.78.208.254:8080/play/a00j/index.m3u8
 
@@ -316,6 +313,9 @@ http://181.78.208.254:8080/play/a0c1/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hansmillanes6-sketch/imagenes/main/telesur.png" group-title="NOTICIAS",Telesur
 http://181.78.208.254:8080/play/a0bs/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hansmillanes6-sketch/imagenes/main/ntn24horas.png" group-title="nacionales",NTN 24 Horas
+http://181.78.208.254:8080/play/a0dc/index.m3u8
 
 
 
