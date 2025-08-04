@@ -226,6 +226,42 @@ http://181.78.208.254:8080/play/a0fk/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hansmillanes6-sketch/imagenes/main/sunchannelhd.png" group-title="CULTURA",Sun Channel HD
 http://181.78.208.254:8080/play/a0fj/index.m3u8
 
+# Infantiles
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hansmillanes6-sketch/imagenes/main/cartoonnetwork.png" group-title="INFANTILES",Cartoon Network
+http://181.78.208.254:8080/play/a0fs/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hansmillanes6-sketch/imagenes/main/cartoonito.png" group-title="INFANTILES",Cartoonito
+http://181.78.208.254:8080/play/a0cm/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hansmillanes6-sketch/imagenes/main/discoverykids.png" group-title="INFANTILES",Discovery Kids HD
+http://181.78.208.254:8080/play/a0cz/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hansmillanes6-sketch/imagenes/main/disneyhd.png" group-title="INFANTILES",Disney HD
+http://181.78.208.254:8080/play/a0ey/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hansmillanes6-sketch/imagenes/main/disneyjunior.png" group-title="INFANTILES",Disney Junior
+http://181.78.208.254:8080/play/a0f4/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hansmillanes6-sketch/imagenes/main/tooncast.png" group-title="INFANTILES",Tooncast
+http://181.78.208.254:8080/play/a0bt/index.m3u8
+
+# Noticias
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hansmillanes6-sketch/imagenes/main/cablenoticias.png" group-title="NOTICIAS",CableNoticias
+http://181.78.208.254:8080/play/a0ct/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hansmillanes6-sketch/imagenes/main/canalinstitucional.png" group-title="NOTICIAS",Canal Institucional
+http://181.78.208.254:8080/play/a0ea/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hansmillanes6-sketch/imagenes/main/canaltro.png" group-title="NOTICIAS",Canal TRO
+http://181.78.208.254:8080/play/a0da/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hansmillanes6-sketch/imagenes/main/telepacifico.png" group-title="NOTICIAS",Telepacifico
+http://181.78.208.254:8080/play/a0c1/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hansmillanes6-sketch/imagenes/main/telesur.png" group-title="NOTICIAS",Telesur
+http://181.78.208.254:8080/play/a0bs/index.m3u8
+
+
 
 
 
