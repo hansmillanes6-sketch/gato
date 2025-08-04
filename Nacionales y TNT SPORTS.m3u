@@ -81,7 +81,7 @@ http://181.78.208.254:8080/play/a0el/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hansmillanes6-sketch/imagenes/main/espnpremium.png" group-title="DEPORTES",ESPN Premium HD
 http://181.78.208.254:8080/play/a0c9/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hansmillanes6-sketch/imagenes/main/foxsports3.png" group-title="DEPORTES",Fox Sports 3 HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hansmillanes6-sketch/imagenes/main/espn6.png.png" group-title="DEPORTES",ESPN 6
 http://181.78.208.254:8080/play/a00q/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hansmillanes6-sketch/imagenes/main/goltv.png" group-title="DEPORTES",Gol TV
@@ -322,5 +322,6 @@ http://181.78.208.254:8080/play/a0c1/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hansmillanes6-sketch/imagenes/main/telesur.png" group-title="NOTICIAS",Telesur
 http://181.78.208.254:8080/play/a0bs/index.m3u8
+
 
 
