@@ -177,11 +177,54 @@ http://181.78.208.254:8080/play/a0c0/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hansmillanes6-sketch/imagenes/main/warnerchannelhd.png" group-title="cine y series",Warner Channel HD
 http://181.78.208.254:8080/play/a005/index.m3u8
 
+# Cultura
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hansmillanes6-sketch/imagenes/main/discoveryh&h.png" group-title="Cultura",Discovery H&H HD
+http://181.78.208.254:8080/play/a0ba/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hansmillanes6-sketch/imagenes/main/discoveryhd.png" group-title="Cultura",Discovery HD
+http://181.78.208.254:8080/play/a0b9/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hansmillanes6-sketch/imagenes/main/discoveryscience.png" group-title="Cultura",Discovery Science
+http://181.78.208.254:8080/play/a0fo/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hansmillanes6-sketch/imagenes/main/discoverytheaterhd.png" group-title="Cultura",Discovery Theater HD
+http://181.78.208.254:8080/play/a0c5/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hansmillanes6-sketch/imagenes/main/discoveryturbo.png" group-title="Cultura",Discovery Turbo
+http://181.78.208.254:8080/play/a0cn/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hansmillanes6-sketch/imagenes/main/discoveryworldhd.png" group-title="Cultura",Discovery World HD
+http://181.78.208.254:8080/play/a0b7/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hansmillanes6-sketch/imagenes/main/elgourmet.png" group-title="Cultura",El Gourmet
+http://181.78.208.254:8080/play/a0d2/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hansmillanes6-sketch/imagenes/main/eurochannel.png" group-title="Cultura",Eurochannel
+http://181.78.208.254:8080/play/a03n/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hansmillanes6-sketch/imagenes/main/europaeuropa.png" group-title="Cultura",Europa Europa
+http://181.78.208.254:8080/play/a0ap/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hansmillanes6-sketch/imagenes/main/filmandsarts.png" group-title="Cultura",Film&Arts
+http://181.78.208.254:8080/play/a0am/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hansmillanes6-sketch/imagenes/main/history2.png" group-title="Cultura",History 2
+http://181.78.208.254:8080/play/a0fp/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hansmillanes6-sketch/imagenes/main/historychannel.png" group-title="Cultura",History Channel
+http://181.78.208.254:8080/play/a0fd/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hansmillanes6-sketch/imagenes/main/lovenature.png" group-title="Cultura",Love Nature
+http://181.78.208.254:8080/play/a0dy/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hansmillanes6-sketch/imagenes/main/ntv.png" group-title="Cultura",NTV
+http://181.78.208.254:8080/play/a0d8/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hansmillanes6-sketch/imagenes/main/natgeohd.png" group-title="Cultura",Nat Geo HD
+http://181.78.208.254:8080/play/a0fk/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hansmillanes6-sketch/imagenes/main/sunchannelhd.png" group-title="Cultura",Sun Channel HD
+http://181.78.208.254:8080/play/a0fj/index.m3u8
 
 
 
