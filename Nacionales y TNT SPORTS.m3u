@@ -32,7 +32,7 @@ http://179.57.171.184:8000/play/a00f
 http://179.57.171.184:8000/play/a00j
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hansmillanes6-sketch/imagenes/main/chilevision.png" group-title="NACIONALES",chilevision
-http://207.248.3.81:8081/play/a0ez
+http://145.239.68.223:9999/chile/hls_kr/793442.m3u8
 
 # Cine y Series
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hansmillanes6-sketch/imagenes/main/a&ehd.png" group-title="cine y series",A&E HD
@@ -316,6 +316,7 @@ http://181.78.208.254:8080/play/a0bs/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hansmillanes6-sketch/imagenes/main/ntn24horas.png" group-title="NOTICIAS",NTN 24 Horas
 http://181.78.208.254:8080/play/a0dc/index.m3u8
+
 
 
 
