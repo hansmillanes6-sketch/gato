@@ -55,6 +55,32 @@ http://181.78.208.254:8080/play/a0c8/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hansmillanes6-sketch/imagenes/main/cinecanal.png" group-title="cine y series",Cinecanal HD
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hansmillanes6-sketch/imagenes/main/hboplushd.png" group-title="CINE Y SERIES",HBO PLUS HD
+http://145.239.68.223:9999/chile/hls_kr/793338.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hansmillanes6-sketch/imagenes/main/funbox.png" group-title="CINE Y SERIES",FUNBOX
+http://145.239.68.223:9999/chile/hls_kr/793352.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hansmillanes6-sketch/imagenes/main/hbofamilychannel.png" group-title="CINE Y SERIES",HBO FAMILY CHANNEL
+http://145.239.68.223:9999/chile/hls_kr/793339.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hansmillanes6-sketch/imagenes/main/hbo2hd.png" group-title="CINE Y SERIES",HBO 2 HD
+http://145.239.68.223:9999/chile/hls_kr/793281.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hansmillanes6-sketch/imagenes/main/hbopop.png" group-title="CINE Y SERIES",HBO POP
+http://145.239.68.223:9999/chile/hls_kr/793337.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hansmillanes6-sketch/imagenes/main/hbomundi.png" group-title="CINE Y SERIES",HBO MUNDI
+http://145.239.68.223:9999/chile/hls_kr/793473.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hansmillanes6-sketch/imagenes/main/hbo.png" group-title="CINE Y SERIES",HBO
+http://145.239.68.223:9999/chile/hls_kr/907534.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hansmillanes6-sketch/imagenes/main/hbosignaturehd.png" group-title="CINE Y SERIES",HBO SIGNATURE HD
+http://145.239.68.223:9999/chile/hls_kr/793315.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hansmillanes6-sketch/imagenes/main/hboxtreme.png" group-title="CINE Y SERIES",HBO XTREME
+http://145.239.68.223:9999/chile/hls_kr/793262.m3u8
 
 # Deportes
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hansmillanes6-sketch/imagenes/main/espn2.png" group-title="DEPORTES",ESPN 2 HD
@@ -316,6 +342,7 @@ http://181.78.208.254:8080/play/a0bs/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hansmillanes6-sketch/imagenes/main/ntn24horas.png" group-title="NOTICIAS",NTN 24 Horas
 http://181.78.208.254:8080/play/a0dc/index.m3u8
+
 
 
 
